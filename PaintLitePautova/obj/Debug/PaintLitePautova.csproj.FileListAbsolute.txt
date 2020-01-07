@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\bin\Debug\PaintLitePautova.exe.config
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\bin\Debug\PaintLitePautova.exe
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\bin\Debug\PaintLitePautova.pdb
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\obj\Debug\PaintLitePautova.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\obj\Debug\PaintLitePautova.Form1.resources
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\obj\Debug\PaintLitePautova.Properties.Resources.resources
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\obj\Debug\PaintLitePautova.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\obj\Debug\PaintLitePautova.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\obj\Debug\PaintLitePautova.exe
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\obj\Debug\PaintLitePautova.pdb
+C:\Users\opilane\source\repos\PaintLitePautova\PaintLitePautova\obj\Debug\PaintLitePautova.Form2.resources
